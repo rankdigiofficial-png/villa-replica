@@ -23,7 +23,7 @@ const Index = () => {
       <CTASection />
       <BlogSection />
       <Footer />
-      <WhatsAppButton />
+      <FloatingButtons />
     </div>
   );
 };
