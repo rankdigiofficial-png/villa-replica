@@ -8,7 +8,7 @@ import FAQSection from "@/components/FAQSection";
 import CTASection from "@/components/CTASection";
 import BlogSection from "@/components/BlogSection";
 import Footer from "@/components/Footer";
-import WhatsAppButton from "@/components/WhatsAppButton";
+import FloatingButtons from "@/components/FloatingButtons";
 
 const Index = () => {
   return (
@@ -23,7 +23,7 @@ const Index = () => {
       <CTASection />
       <BlogSection />
       <Footer />
-      <WhatsAppButton />
+      <FloatingButtons />
     </div>
   );
 };
