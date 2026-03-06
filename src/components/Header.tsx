@@ -37,7 +37,7 @@ const Header = () => {
             <span className="text-primary-foreground font-heading font-bold text-lg">V</span>
           </div>
           <div className="leading-tight">
-            <span className="font-heading font-bold text-lg text-foreground">Villa Painting</span>
+            <span className="font-heading font-bold text-lg text-foreground">Painting Services In Dubai</span>
             <span className="block text-xs text-muted-foreground tracking-wider uppercase">Service</span>
           </div>
         </Link>
@@ -73,7 +73,7 @@ const Header = () => {
         </nav>
 
         <div className="hidden md:flex items-center gap-3">
-          <a href="tel:+971542386986">
+          <a href="tel:+971527833727">
             <Button variant="default" size="sm" className="gap-2">
               <Phone className="w-4 h-4" />
               Call Now
@@ -117,7 +117,7 @@ const Header = () => {
           <a href={scrollLink("blog")} className="block py-3 text-sm font-medium text-muted-foreground hover:text-primary" onClick={() => setMobileOpen(false)}>Blog</a>
           <a href={scrollLink("contact")} className="block py-3 text-sm font-medium text-muted-foreground hover:text-primary" onClick={() => setMobileOpen(false)}>Contact</a>
 
-          <a href="tel:+971542386986">
+          <a href="tel:+971527833727">
             <Button variant="default" size="sm" className="w-full mt-3 gap-2">
               <Phone className="w-4 h-4" />
               Call Now
