@@ -6,49 +6,49 @@ const services = [
     icon: Home,
     title: "Residential Painting",
     slug: "residential-painting",
-    description: "Experience excellence in beautifying your residential project with precision, quality, and attention to detail.",
+    description: "Upgrade your home’s appearance with reliable painting services focused on accuracy, quality, and lasting results.",
   },
   {
     icon: Paintbrush,
     title: "Wallpapering",
     slug: "wallpapering",
-    description: "Expert wallpapering services, enhancing your space with style and precision. Transform your walls effortlessly.",
+    description: "Upgrade your interiors with expert wallpaper services designed to bring style, texture, and a perfect finish to your walls.",
   },
   {
     icon: Building2,
     title: "Commercial Painting",
     slug: "commercial-painting",
-    description: "Professional painting solutions for commercial projects, ensuring impeccable results for your business space.",
+    description: "Expert painting services for commercial spaces, delivering clean finishes and reliable results that enhance your business environment.",
   },
   {
     icon: History,
     title: "Restoration Painting",
     slug: "restoration-painting",
-    description: "Expert painting for restoration projects, revitalizing spaces with precision, care, and excellence.",
+    description: "We handle restoration painting with skill and dedication, helping restore the beauty and character of every space.",
   },
   {
     icon: PaintBucket,
     title: "Interior Painting",
     slug: "interior-painting",
-    description: "Transform your interiors with premium paints and expert techniques for a beautiful, inviting space.",
+    description: "Bring new life to your interiors with professional painting and premium finishes that add warmth and beauty to every room.",
   },
   {
     icon: Layers,
     title: "Exterior Painting",
     slug: "exterior-painting",
-    description: "Protect and beautify your villa's exterior with weather-resistant coatings suited for Dubai's climate.",
+    description: "Keep your exterior surfaces protected and looking great with high-quality coatings built to handle Dubai’s harsh weather.",
   },
   {
     icon: DoorOpen,
     title: "Door Painting",
     slug: "door-painting",
-    description: "Refresh and protect your doors with professional painting, staining, and refinishing services.",
+    description: "Restore the look of your doors with expert painting, staining, and refinishing for a clean and durable finish.",
   },
   {
     icon: Droplets,
     title: "Epoxy Flooring",
     slug: "epoxy-flooring",
-    description: "High-performance, seamless epoxy flooring for garages, showrooms, and commercial spaces.",
+    description: "Reliable epoxy flooring systems that provide a sleek, durable surface for garages, showrooms, and business spaces.",
   },
 ];
 
@@ -59,10 +59,10 @@ const ServicesSection = () => {
         <div className="text-center max-w-2xl mx-auto mb-14">
           <p className="section-subtitle mb-3">Our Services</p>
           <h2 className="section-title mb-4">
-            Affordable Villa Painting Service in Dubai
+            Affordable Painting Service in Dubai
           </h2>
           <p className="text-muted-foreground">
-            Transform your villa with our affordable painting services. From meticulous preparation to flawless execution, our team ensures quality results.
+           Transform your space with our affordable painting services. From detailed surface preparation to a flawless finish, our team delivers high-quality results every time.
           </p>
         </div>
 
