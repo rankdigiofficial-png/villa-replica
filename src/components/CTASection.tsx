@@ -8,12 +8,12 @@ const CTASection = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="section-title mb-6">
-              Consult Your Color Selection With Us
+              Get Expert Guidance for Your Perfect Color Choice
             </h2>
             <p className="text-muted-foreground mb-8 leading-relaxed text-lg">
-              We understand the importance of selecting the perfect colors for your home. Consult with us to explore a wide range of options, ensuring your vision is realized with expert guidance and personalized recommendations.
+              Finding the ideal colors for your home doesn’t have to be difficult. With our expert consultation, you can explore a variety of shades and finishes while receiving personalized advice to achieve the perfect look.
             </p>
-            <a href="https://wa.me/971542386986?text=Hello%2C%20I%20am%20interested%20in%20your%20services">
+            <a href="https://wa.me/971527833727?text=Hello%2C%20I%20am%20interested%20in%20your%20services">
               <Button size="lg" className="rounded-full px-10 py-6 text-base shadow-lg">
                 Contact Us
               </Button>
