@@ -17,10 +17,10 @@ const ProjectsSection = () => {
         <div className="text-center max-w-2xl mx-auto mb-14">
           <p className="section-subtitle mb-3">Latest Projects</p>
           <h2 className="section-title mb-4">
-            Awesome Projects That Could Inspire You
+            Innovative Projects Worth Your Inspiration
           </h2>
           <p className="text-muted-foreground">
-            Our villa painting services transform your space into an awe-inspiring masterpiece, igniting inspiration with vibrant colors and meticulous craftsmanship.
+            Our professional painting services refresh your space with beautiful colors and expert craftsmanship, creating a stunning environment that truly stands out.
           </p>
         </div>
 
