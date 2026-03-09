@@ -7,16 +7,16 @@ import {
 
 const faqs = [
   {
-    question: "What type of paint do you use for villa painting in Dubai?",
-    answer: "We use high-quality, weather-resistant paints suitable for Dubai's climate, ensuring long-lasting durability and vibrant colors that withstand harsh conditions.",
+    question: "What type of paint do you use for painting in Dubai?",
+    answer: "We use premium, climate-resistant paints designed for Dubai’s heat and humidity. Our painters prefer trusted brands such as Jotun, Dulux, and National Paints to ensure a durable, smooth, and long-lasting finish.",
   },
   {
-    question: "How is the price for villa painting services determined?",
-    answer: "The price is typically determined based on factors such as the size of the villa, the complexity of the project, the quality of paint chosen, and any additional services required.",
+    question: "How is the price for painting services determined?",
+    answer: "Painting costs are calculated based on the size of the property, the current condition of the walls, the type of paint selected, and the amount of preparation or coats required. Additional services like wall repairs or special finishes may also influence the final price.",
   },
   {
-    question: "What preparation is required before starting a villa painting project?",
-    answer: "Prior to painting, it's essential to prepare the surfaces by cleaning them thoroughly, repairing any damages, sanding rough areas, and applying primer as needed.",
+    question: "What preparation is required before starting a painting project?",
+    answer: "Before the painting starts, the walls are properly prepared by cleaning the surface, fixing cracks or holes, and smoothing uneven areas. Protective covers are also placed over furniture and floors, and primer is applied if necessary to ensure a neat and long-lasting result.",
   },
 ];
 
