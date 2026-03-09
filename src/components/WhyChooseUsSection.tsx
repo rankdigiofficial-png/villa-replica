@@ -4,22 +4,22 @@ const features = [
   {
     icon: Calendar,
     title: "Flexible Schedule Option",
-    description: "Tailored villa painting service with flexible scheduling options for your convenience and peace of mind.",
+    description: "Personalized painting services with flexible scheduling designed to fit your timeline and make the process hassle-free..",
   },
   {
     icon: Leaf,
-    title: "Eco Friendly and Clean",
-    description: "Our villa painting service is eco-friendly and ensures a clean finish.",
+    title: "Eco Friendly",
+    description: "We provide environmentally friendly painting services that leave your space looking neat and refreshed.",
   },
   {
     icon: Palette,
     title: "Free Colors Consultation",
-    description: "Get expert advice with our free colors consultation for villa painting.",
+    description: "Get personalized color advice from our experts with our free painting consultation service.",
   },
   {
     icon: Award,
-    title: "PDCA Certified",
-    description: "Our villa painting service is PDCA Certified, ensuring top-notch quality.",
+    title: "PDCA Approved",
+    description: "Our painters work under PDCA-approved guidelines, providing dependable service and high-quality finishes.",
   },
 ];
 
@@ -30,10 +30,10 @@ const WhyChooseUsSection = () => {
         <div className="text-center max-w-2xl mx-auto mb-14">
           <p className="section-subtitle mb-3">Why Choose Us</p>
           <h2 className="section-title mb-4">
-            Always On Time And Never Delay A Project
+            We respect your time by completing every project on schedule.
           </h2>
           <p className="text-muted-foreground">
-            Choose our villa painting service for careful work, experienced painters, top-quality materials, on-time completion, fair prices, and a promise to go beyond your expectations.
+            Trust our painting experts for precise work, durable materials, honest pricing, and a smooth process from start to finish.
           </p>
         </div>
 
