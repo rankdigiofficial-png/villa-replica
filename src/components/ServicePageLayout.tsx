@@ -29,7 +29,7 @@ const ServicePageLayout = ({ data }: { data: ServicePageData }) => {
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto mb-8">
             {data.description}
           </p>
-          <a href="https://wa.me/971542386986?text=Hello%2C%20I%20am%20interested%20in%20your%20services">
+          <a href="https://wa.me/971527833727?text=Hello%2C%20I%20am%20interested%20in%20your%20services">
             <Button size="lg" className="rounded-full px-10 py-6 text-base shadow-lg gap-2">
               <Phone className="w-5 h-5" />
               Get a Free Quote
@@ -84,13 +84,13 @@ const ServicePageLayout = ({ data }: { data: ServicePageData }) => {
       <section className="py-20 bg-primary">
         <div className="container mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold font-heading text-primary-foreground mb-4">
-            Ready to Transform Your Space?
+            Start Your Space Transformation Today
           </h2>
           <p className="text-primary-foreground/80 text-lg mb-8 max-w-xl mx-auto">
-            Contact us today for a free consultation and quote. We&apos;ll help you bring your vision to life.
+            Speak with our team today for a free quote and helpful advice, and let’s create the perfect look for your space.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://wa.me/971542386986?text=Hello%2C%20I%20am%20interested%20in%20your%20services">
+            <a href="https://wa.me/971527833727?text=Hello%2C%20I%20am%20interested%20in%20your%20services">
               <Button size="lg" variant="secondary" className="rounded-full px-10 py-6 text-base gap-2">
                 <Phone className="w-5 h-5" />
                 Contact Us Now
