@@ -34,7 +34,7 @@ const Header = () => {
       <div className="container mx-auto flex items-center justify-between py-4">
         <Link to="/" className="flex items-center gap-2">
           <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-            <span className="text-primary-foreground font-heading font-bold text-lg">V</span>
+            <span className="text-primary-foreground font-heading font-bold text-lg">P</span>
           </div>
           <div className="leading-tight">
             <span className="font-heading font-bold text-lg text-foreground">Painting Services In Dubai</span>
