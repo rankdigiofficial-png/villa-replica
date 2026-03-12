@@ -18,7 +18,7 @@ const HeroSection = () => {
             <p className="text-muted-foreground text-lg mb-8 max-w-lg">
               Our professional painting services in Dubai help transform studios, apartments, villas, and commercial properties with fresh color and expert finishing. With careful preparation and high-quality paints, we create clean, long-lasting results that brighten any space.
             </p>
-            <a href="https://tel:+971527833727">
+            <a href="tel:+971527833727">
               <Button size="lg" className="gap-2 text-base px-8 py-6 rounded-full shadow-lg hover:shadow-xl transition-shadow">
                 <Phone className="w-5 h-5" />
                 Call Now
