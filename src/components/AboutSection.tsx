@@ -8,7 +8,7 @@ const AboutSection = () => {
       <div className="container mx-auto">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="rounded-2xl overflow-hidden shadow-xl">
-            <img src={aboutVilla} alt="Beautiful villa painting result" className="w-full h-full object-cover" />
+            <img src={aboutVilla} alt="Beautiful painting result" className="w-full h-full object-cover" />
           </div>
           <div>
             <p className="section-subtitle mb-3">About Us</p>
@@ -16,7 +16,7 @@ const AboutSection = () => {
               We Are The Best Painting Service Company In Dubai
             </h2>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              At Villa Painting Service, we turn walls into masterpieces. From compact studio apartments and 1BR units to luxury villas and large commercial properties in Dubai, our skilled painters ensure precision, premium materials, and stunning results.
+              At Painting Service, we turn walls into masterpieces. From compact studio apartments and 1BR units to luxury villas and large commercial properties in Dubai, our skilled painters ensure precision, premium materials, and stunning results.
             </p>
             <ul className="space-y-4 mb-8">
               {[
