@@ -8,7 +8,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-heading font-bold text-lg">V</span>
+                <span className="text-primary-foreground font-heading font-bold text-lg">P</span>
               </div>
               <div className="leading-tight">
                 <span className="font-heading font-bold text-lg">Professional Painting Services in Dubai</span>
