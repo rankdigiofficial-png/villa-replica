@@ -6,7 +6,7 @@ import WhyChooseUsSection from "@/components/WhyChooseUsSection";
 import ProjectsSection from "@/components/ProjectsSection";
 import FAQSection from "@/components/FAQSection";
 import CTASection from "@/components/CTASection";
-import BlogSection from "@/components/BlogSection";
+
 import Footer from "@/components/Footer";
 import FloatingButtons from "@/components/FloatingButtons";
 
@@ -21,7 +21,7 @@ const Index = () => {
       <ProjectsSection />
       <FAQSection />
       <CTASection />
-      <BlogSection />
+      
       <Footer />
       <FloatingButtons />
     </div>
