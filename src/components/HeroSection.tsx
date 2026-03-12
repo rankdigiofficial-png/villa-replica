@@ -10,7 +10,7 @@ const HeroSection = () => {
           <div className="animate-fade-in-up">
             <p className="section-subtitle mb-4">Professional Painting Services In Dubai</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              Making Your Villa{" "}
+              Making Your Home{" "}
               <span className="text-gradient">Beautiful,</span>
               <br />
               Inside & Out
