@@ -13,7 +13,7 @@ const CTASection = () => {
             <p className="text-muted-foreground mb-8 leading-relaxed text-lg">
               Finding the ideal colors for your home doesn’t have to be difficult. With our expert consultation, you can explore a variety of shades and finishes while receiving personalized advice to achieve the perfect look.
             </p>
-            <a href="https://wa.me/971527833727?text=Hello%2C%20I%20am%20interested%20in%20your%20services">
+            <a href="https://wa.link/tggscc">
               <Button size="lg" className="rounded-full px-10 py-6 text-base shadow-lg">
                 Contact Us
               </Button>
