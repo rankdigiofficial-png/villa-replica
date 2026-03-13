@@ -11,7 +11,7 @@ const HeroSection = () => {
             <p className="section-subtitle mb-4">Professional Painting Services In Dubai</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
               Transform Your Home{" "}
-              <span className="text-gradient">with Stunning</span>
+              <span className="text-gradient">With</span>
               <br />
               Interior and Exterior Painting
             </h1>
