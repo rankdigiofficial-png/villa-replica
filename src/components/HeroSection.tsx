@@ -10,10 +10,10 @@ const HeroSection = () => {
           <div className="animate-fade-in-up">
             <p className="section-subtitle mb-4">Professional Painting Services In Dubai</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              Making Your Home{" "}
-              <span className="text-gradient">Beautiful,</span>
+              Transform Your Home{" "}
+              <span className="text-gradient">with Stunning</span>
               <br />
-              Inside & Out
+              Interior and Exterior Painting
             </h1>
             <p className="text-muted-foreground text-lg mb-8 max-w-lg">
               Our professional painting services in Dubai help transform studios, apartments, villas, and commercial properties with fresh color and expert finishing. With careful preparation and high-quality paints, we create clean, long-lasting results that brighten any space.
